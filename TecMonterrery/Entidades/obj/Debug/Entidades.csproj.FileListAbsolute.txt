@@ -1,0 +1,4 @@
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Entidades\bin\Debug\Entidades.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Entidades\obj\Debug\Entidades.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Entidades\obj\Debug\Entidades.pdb

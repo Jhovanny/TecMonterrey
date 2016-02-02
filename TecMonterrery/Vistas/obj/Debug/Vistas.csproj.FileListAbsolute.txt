@@ -1,0 +1,16 @@
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Vistas\bin\Vistas.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Vistas\bin\Vistas.pdb
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Vistas\bin\ClosedXML.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Vistas\bin\DocumentFormat.OpenXml.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Vistas\bin\Entidades.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Vistas\bin\Negocios.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Vistas\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Vistas\bin\AccesoDB.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Vistas\bin\Entidades.pdb
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Vistas\bin\Negocios.pdb
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Vistas\bin\ClosedXML.xml
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Vistas\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Vistas\bin\AccesoDB.pdb
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Vistas\obj\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Vistas\obj\Debug\Vistas.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Vistas\obj\Debug\Vistas.pdb

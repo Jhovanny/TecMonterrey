@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\desarrollo\Documents\TecMonterreyApp</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AccesoDB.dll">
+      <publishTime>01/21/2016 12:46:17</publishTime>
+    </File>
+    <File Include="bin/ClosedXML.dll">
+      <publishTime>09/11/2015 18:14:50</publishTime>
+    </File>
+    <File Include="bin/DocumentFormat.OpenXml.dll">
+      <publishTime>09/11/2015 18:14:50</publishTime>
+    </File>
+    <File Include="bin/Entidades.dll">
+      <publishTime>01/21/2016 12:46:17</publishTime>
+    </File>
+    <File Include="bin/Negocios.dll">
+      <publishTime>01/21/2016 12:46:17</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/17/2015 12:26:00</publishTime>
+    </File>
+    <File Include="bin/Vistas.dll">
+      <publishTime>01/21/2016 12:47:25</publishTime>
+    </File>
+    <File Include="Cabecera.Master">
+      <publishTime>09/30/2015 17:29:17</publishTime>
+    </File>
+    <File Include="Categorias/Configuracion.aspx">
+      <publishTime>09/23/2015 16:36:51</publishTime>
+    </File>
+    <File Include="css/dashboard.css">
+      <publishTime>09/11/2015 17:13:18</publishTime>
+    </File>
+    <File Include="css/General.css">
+      <publishTime>09/25/2015 14:54:10</publishTime>
+    </File>
+    <File Include="css/jquery-ui.min.css">
+      <publishTime>09/11/2015 17:13:18</publishTime>
+    </File>
+    <File Include="css/jquery.datetimepicker.css">
+      <publishTime>09/11/2015 18:56:43</publishTime>
+    </File>
+    <File Include="Index.aspx">
+      <publishTime>09/30/2015 17:30:54</publishTime>
+    </File>
+    <File Include="js/Chart.min.js">
+      <publishTime>09/30/2015 16:25:37</publishTime>
+    </File>
+    <File Include="js/ie-emulation-modes-warning.js">
+      <publishTime>09/11/2015 17:13:22</publishTime>
+    </File>
+    <File Include="js/ie10-viewport-bug-workaround.js">
+      <publishTime>09/11/2015 17:13:22</publishTime>
+    </File>
+    <File Include="js/jquery-ui.min.js">
+      <publishTime>09/11/2015 17:13:22</publishTime>
+    </File>
+    <File Include="js/jquery.datetimepicker.js">
+      <publishTime>09/11/2015 18:56:57</publishTime>
+    </File>
+    <File Include="js/jquery.js">
+      <publishTime>09/11/2015 17:13:22</publishTime>
+    </File>
+    <File Include="js/json2.js">
+      <publishTime>09/17/2015 12:39:42</publishTime>
+    </File>
+    <File Include="js/morris.min.js">
+      <publishTime>09/30/2015 15:02:27</publishTime>
+    </File>
+    <File Include="js/validaciones.js">
+      <publishTime>12/02/2015 15:20:49</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/17/2015 12:26:01</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/21/2016 12:47:25</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\AccesoDB\bin\Debug\AccesoDB.dll.config
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\AccesoDB\bin\Debug\AccesoDB.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\AccesoDB\bin\Debug\AccesoDB.pdb
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\AccesoDB\bin\Debug\Entidades.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\AccesoDB\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\AccesoDB\bin\Debug\Entidades.pdb
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\AccesoDB\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\AccesoDB\obj\Debug\AccesoDB.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\AccesoDB\obj\Debug\AccesoDB.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\AccesoDB\obj\Debug\AccesoDB.pdb

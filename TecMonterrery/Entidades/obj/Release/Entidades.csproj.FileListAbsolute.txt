@@ -1,0 +1,8 @@
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TecMonterrery\Entidades\bin\Release\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TecMonterrery\Entidades\bin\Release\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TecMonterrery\Entidades\obj\Release\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\Projects\TecMonterrery\Entidades\obj\Release\Entidades.pdb
+C:\Users\desarrollo\Documents\Visual Studio 2012\Projects\TecMonterrery\Entidades\bin\Release\Entidades.dll
+C:\Users\desarrollo\Documents\Visual Studio 2012\Projects\TecMonterrery\Entidades\bin\Release\Entidades.pdb
+C:\Users\desarrollo\Documents\Visual Studio 2012\Projects\TecMonterrery\Entidades\obj\Release\Entidades.dll
+C:\Users\desarrollo\Documents\Visual Studio 2012\Projects\TecMonterrery\Entidades\obj\Release\Entidades.pdb

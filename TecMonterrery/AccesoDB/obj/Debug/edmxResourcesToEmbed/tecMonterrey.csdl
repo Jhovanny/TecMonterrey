@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="asteriskcdrdbModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="asteriskcdrdbEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="cdr" EntityType="asteriskcdrdbModel.cdr" />
+  </EntityContainer>
+  <EntityType Name="cdr">
+    <Key>
+      <PropertyRef Name="calldate" />
+      <PropertyRef Name="clid" />
+      <PropertyRef Name="src" />
+      <PropertyRef Name="dst" />
+      <PropertyRef Name="dcontext" />
+      <PropertyRef Name="channel" />
+      <PropertyRef Name="dstchannel" />
+      <PropertyRef Name="lastapp" />
+      <PropertyRef Name="lastdata" />
+      <PropertyRef Name="duration" />
+      <PropertyRef Name="billsec" />
+      <PropertyRef Name="disposition" />
+      <PropertyRef Name="amaflags" />
+      <PropertyRef Name="accountcode" />
+      <PropertyRef Name="uniqueid" />
+      <PropertyRef Name="userfield" />
+    </Key>
+    <Property Name="calldate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="clid" Type="String" Nullable="false" MaxLength="80" Unicode="false" FixedLength="false" />
+    <Property Name="src" Type="String" Nullable="false" MaxLength="80" Unicode="false" FixedLength="false" />
+    <Property Name="dst" Type="String" Nullable="false" MaxLength="80" Unicode="false" FixedLength="false" />
+    <Property Name="dcontext" Type="String" Nullable="false" MaxLength="80" Unicode="false" FixedLength="false" />
+    <Property Name="channel" Type="String" Nullable="false" MaxLength="80" Unicode="false" FixedLength="false" />
+    <Property Name="dstchannel" Type="String" Nullable="false" MaxLength="80" Unicode="false" FixedLength="false" />
+    <Property Name="lastapp" Type="String" Nullable="false" MaxLength="80" Unicode="false" FixedLength="false" />
+    <Property Name="lastdata" Type="String" Nullable="false" MaxLength="80" Unicode="false" FixedLength="false" />
+    <Property Name="duration" Type="Int32" Nullable="false" />
+    <Property Name="billsec" Type="Int32" Nullable="false" />
+    <Property Name="disposition" Type="String" Nullable="false" MaxLength="45" Unicode="false" FixedLength="false" />
+    <Property Name="amaflags" Type="Int32" Nullable="false" />
+    <Property Name="accountcode" Type="String" Nullable="false" MaxLength="20" Unicode="false" FixedLength="false" />
+    <Property Name="uniqueid" Type="String" Nullable="false" MaxLength="32" Unicode="false" FixedLength="false" />
+    <Property Name="userfield" Type="String" Nullable="false" MaxLength="255" Unicode="false" FixedLength="false" />
+  </EntityType>
+</Schema>

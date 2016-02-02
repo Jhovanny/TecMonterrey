@@ -1,0 +1,9 @@
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Negocios\bin\Debug\Negocios.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Negocios\bin\Debug\AccesoDB.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Negocios\bin\Debug\Entidades.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Negocios\bin\Debug\AccesoDB.pdb
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Negocios\obj\Debug\Negocios.dll
+C:\Users\Administrador\documents\visual studio 2012\Projects\TecMonterrery\Negocios\obj\Debug\Negocios.pdb

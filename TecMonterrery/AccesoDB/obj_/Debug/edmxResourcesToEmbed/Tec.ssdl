@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="asteriskcdrdbModel.Store" Alias="Self" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.6" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="asteriskcdrdbModelStoreContainer">
+    <EntitySet Name="cdr" EntityType="asteriskcdrdbModel.Store.cdr" store:Type="Tables" store:Schema="asteriskcdrdb" store:Name="cdr">
+      <DefiningQuery>SELECT
+      `cdr`.`calldate`, 
+      `cdr`.`clid`, 
+      `cdr`.`src`, 
+      `cdr`.`dst`, 
+      `cdr`.`dcontext`, 
+      `cdr`.`channel`, 
+      `cdr`.`dstchannel`, 
+      `cdr`.`lastapp`, 
+      `cdr`.`lastdata`, 
+      `cdr`.`duration`, 
+      `cdr`.`billsec`, 
+      `cdr`.`disposition`, 
+      `cdr`.`amaflags`, 
+      `cdr`.`accountcode`, 
+      `cdr`.`uniqueid`, 
+      `cdr`.`userfield`
+      FROM `cdr` AS `cdr`</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+  <!--Se encontraron errores durante la generación:
+      advertencia 6002: La tabla o vista 'def.asteriskcdrdb.cdr' no tiene ninguna clave principal definida. Se ha inferido la clave y la definición se creó como vista o tabla de solo lectura.
+      -->
+  <EntityType Name="cdr">
+    <Key>
+      <PropertyRef Name="calldate" />
+      <PropertyRef Name="clid" />
+      <PropertyRef Name="src" />
+      <PropertyRef Name="dst" />
+      <PropertyRef Name="dcontext" />
+      <PropertyRef Name="channel" />
+      <PropertyRef Name="dstchannel" />
+      <PropertyRef Name="lastapp" />
+      <PropertyRef Name="lastdata" />
+      <PropertyRef Name="duration" />
+      <PropertyRef Name="billsec" />
+      <PropertyRef Name="disposition" />
+      <PropertyRef Name="amaflags" />
+      <PropertyRef Name="accountcode" />
+      <PropertyRef Name="uniqueid" />
+      <PropertyRef Name="userfield" />
+    </Key>
+    <Property Name="calldate" Type="datetime" Nullable="false" />
+    <Property Name="clid" Type="varchar" Nullable="false" MaxLength="80" />
+    <Property Name="src" Type="varchar" Nullable="false" MaxLength="80" />
+    <Property Name="dst" Type="varchar" Nullable="false" MaxLength="80" />
+    <Property Name="dcontext" Type="varchar" Nullable="false" MaxLength="80" />
+    <Property Name="channel" Type="varchar" Nullable="false" MaxLength="80" />
+    <Property Name="dstchannel" Type="varchar" Nullable="false" MaxLength="80" />
+    <Property Name="lastapp" Type="varchar" Nullable="false" MaxLength="80" />
+    <Property Name="lastdata" Type="varchar" Nullable="false" MaxLength="80" />
+    <Property Name="duration" Type="int" Nullable="false" />
+    <Property Name="billsec" Type="int" Nullable="false" />
+    <Property Name="disposition" Type="varchar" Nullable="false" MaxLength="45" />
+    <Property Name="amaflags" Type="int" Nullable="false" />
+    <Property Name="accountcode" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="uniqueid" Type="varchar" Nullable="false" MaxLength="32" />
+    <Property Name="userfield" Type="varchar" Nullable="false" MaxLength="255" />
+  </EntityType>
+  <Function Name="TecMonterrey" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="asteriskcdrdb">
+    <Parameter Name="fechainicio" Type="datetime" Mode="In" />
+    <Parameter Name="fechafin" Type="datetime" Mode="In" />
+    <Parameter Name="intervalo" Type="int" Mode="In" />
+  </Function>
+</Schema>

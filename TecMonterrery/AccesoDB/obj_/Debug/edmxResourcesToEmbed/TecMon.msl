@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="asteriskcdrdbModelStoreContainer" CdmEntityContainer="asteriskcdrdbEntities1">
+    <EntitySetMapping Name="cdr">
+      <EntityTypeMapping TypeName="asteriskcdrdbModel.cdr">
+        <MappingFragment StoreEntitySet="cdr">
+          <ScalarProperty Name="calldate" ColumnName="calldate" />
+          <ScalarProperty Name="clid" ColumnName="clid" />
+          <ScalarProperty Name="src" ColumnName="src" />
+          <ScalarProperty Name="dst" ColumnName="dst" />
+          <ScalarProperty Name="dcontext" ColumnName="dcontext" />
+          <ScalarProperty Name="channel" ColumnName="channel" />
+          <ScalarProperty Name="dstchannel" ColumnName="dstchannel" />
+          <ScalarProperty Name="lastapp" ColumnName="lastapp" />
+          <ScalarProperty Name="lastdata" ColumnName="lastdata" />
+          <ScalarProperty Name="duration" ColumnName="duration" />
+          <ScalarProperty Name="billsec" ColumnName="billsec" />
+          <ScalarProperty Name="disposition" ColumnName="disposition" />
+          <ScalarProperty Name="amaflags" ColumnName="amaflags" />
+          <ScalarProperty Name="accountcode" ColumnName="accountcode" />
+          <ScalarProperty Name="uniqueid" ColumnName="uniqueid" />
+          <ScalarProperty Name="userfield" ColumnName="userfield" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
